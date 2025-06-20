@@ -1,0 +1,30 @@
+
+ body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, sans-serif;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px; 
+        height: 100vh;
+        text-align: center;
+}
+
+.user-info { 
+        margin-bottom: 20px;
+ }
+
+ .profile-pic { 
+        max-width: 200px;
+        max-height: 200px;
+        border-radius: 50%;
+}
+
+.success-box {
+        background-color: #dff0d8;
+        color: #3c763d;
+        padding: 15px;
+        border-radius: 5px;
+        margin-bottom: 20px;
+}
